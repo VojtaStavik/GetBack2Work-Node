@@ -2,7 +2,7 @@
 
 ### Server address
 
-http://http://getback2work.azurewebsites.net/
+http://getback2work.azurewebsites.net/
 
 
 ### Send push notification to user:
