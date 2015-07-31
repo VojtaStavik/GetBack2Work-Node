@@ -12,7 +12,7 @@ POST /send HTTP/1.1
 
 ~~~JSON
 {
-"username" : <user name string>
+"username" : <username>
 }
 ~~~
  
@@ -29,10 +29,6 @@ HTTP/1.1 200 OK
 "status": "sent"
 }
 ~~~
-
-Parameter            | Optional | More info
--------------------- | -------- | ---------
-auth_token           | no       
 
 
 
